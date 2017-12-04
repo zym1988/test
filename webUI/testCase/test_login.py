@@ -6,6 +6,7 @@ from webUI.page.init import *
 from webUI.page.login import *
 import unittest
 import ddt
+from webUI.utils import helper
 
 # class LoginTest(WebInit,Login):
 #
@@ -42,7 +43,7 @@ import ddt
 from webUI.utils.helper import *
 @ddt.ddt
 class LoginTest(WebInit,Login):
-     @ddt.data()
+     @ddt.data(*helper.readlists())#*代表元祖
      @ddt.unpack
      def test_login_div_null(self,username,password,expected):
  		"""验证：对登录input表单的验证"""

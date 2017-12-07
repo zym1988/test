@@ -21,27 +21,36 @@ from webUI.page.login import *
 from webUI.page.init import *
 import unittest
 
+data = DataHelper()
 class BaiduCSVTest(WebInit,Login):
 	def test_login_username_pwd_null(self):
 		"""登录：用户名和密码为空点击后的错误提示信息"""
-		data = DataHelper()
 		self.login(data.readcsv(0,0),data.readcsv(0,1))
 		divText =  self.getDivError
-		self.assertEqual(divText,data.readcsv(0,2))
+		#self.assertEqual(divText,data.readcsv(0,2))
+		print data.readcsv(0,0)
+		print data.readcsv(0,1)
+		print data.readcsv(0,2)
 
-	def test_login_username_pwd_null(self):
-		"""登录：用户名和密码为空点击后的错误提示信息"""
-		data = DataHelper()
+	def test_login_pwd_null(self):
+		"""登录：密码为空点击后的错误提示信息"""
+		#data = DataHelper()
 		self.login(data.readcsv(1,0),data.readcsv(1,1))
 		divText =  self.getDivError
-		self.assertEqual(divText,data.readcsv(1,2))
+		#self.assertEqual(divText,data.readcsv(1,2))
+		print data.readcsv(1,0)
+		print data.readcsv(1,1)
+		print data.readcsv(1,2)
 
-	def test_login_username_pwd_null(self):
-		"""登录：用户名和密码为空点击后的错误提示信息"""
-		data = DataHelper()
-		self.login(data.readcsv(1,0),data.readcsv(1,1))
+	def test_login_yzm_null(self):
+		"""登录：验证码为空点击后的错误提示信息"""
+		#data = DataHelper()
+		self.login(data.readcsv(2,0),data.readcsv(2,1))
 		divText =  self.getDivError
-		self.assertEqual(divText,data.readcsv(1,2))
+		#self.assertEqual(divText,data.readcsv(2,2))
+		print data.readcsv(2,0)
+		print data.readcsv(2,1)
+		print data.readcsv(2,2)
 
 
 if __name__ == "__main__":

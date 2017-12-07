@@ -8,8 +8,8 @@ from webUI.page.init import *
 import unittest
 import ddt
 
-@ddt.data
-class BaiduEXCELTest(WebInit,Login):
+@ddt.ddt
+class TestBaiExcel(WebInit,Login):
 	@ddt.data(*readExcels())
 	@ddt.unpack
 	def test_login_username_pwd_null(self,username,password,expected):

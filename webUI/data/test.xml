@@ -1,0 +1,7 @@
+<?xml version ="1.0" encoding = "utf-8"?>
+<DataDriven>
+    <login name="username" passwd ="password" nick = "zym"></login>
+    <nullText>请您输入手机/邮箱/用户名</nullText>
+    <pwdNull>请您输入密码</pwdNull>
+    <codeNull>请您输入验证码</codeNull>
+</DataDriven>

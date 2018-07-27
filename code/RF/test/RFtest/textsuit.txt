@@ -1,0 +1,38 @@
+*** Settings ***
+Library           Selenium2Library
+
+*** Test Cases ***
+testcase
+    [Documentation]    测试百度 输入框
+    open browser    https:www.baidu.com/    chrome
+    Maximize Browser window
+    ${title}    Get title
+    input Text    id=kw    python
+    sleep    1
+    click button    id=su
+    sleep    2
+    #删除输入框文本信息
+    clear element text    id=kw
+    #回到首页
+    go back
+    sleep    5
+    get window handles
+
+    go to
+    select window   title=
+    click element   xpth=//*[@id="u1"]/a[1]
+    get window handles
+    list windows
+
+#    wait until page contain element    xpth=//*[@id="u1"]/a[1]
+
+
+    # select window    title=
+    go back
+    #    click element    xpth=//*[@id="u1"]/a[7]
+    #    click element    id=TANGRAM__PSP_10__footerULoginBtn
+    #    click element    id=TANGRAM__PSP_10__submit
+    #    get element attribute    id=TANGRAM__PSP_10__error
+    #
+    #    click element    id=TANGRAM__PSP_4__closeBtn
+    close browser

@@ -1,0 +1,12 @@
+*** Settings ***
+Library           Selenium2Library
+
+*** Test Cases ***
+testcase
+    [Documentation]    测试google
+    open browser    www.baidu.com    chrome
+    wait until page contain element    css=input[id="lst-ib"]    10
+    input text    css=input[id="lst-ib"]    rfs test
+    click element    css=input[aria-label="Google 搜索"]
+    wait until page contain element    css=#rso > div > div > div:nth-child(1) > div > div >h3 > a    10
+    cilck element    css=#rso > div > div > div:nth-child(1) > div > div >h3 > a

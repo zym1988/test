@@ -1,0 +1,137 @@
+1530674022174	geckodriver	INFO	Listening on 127.0.0.1:1530
+1530674025201	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.IpDUJUnY4uRK
+1530674025226	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530674025241	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1547
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1530674911474	geckodriver	INFO	Listening on 127.0.0.1:3172
+1530674914492	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.qfZvZIZUR7ST
+1530674914538	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530674914679	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3188
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1530676411323	geckodriver	INFO	Listening on 127.0.0.1:6973
+1530676414355	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.jBCJAU3cmMmd
+1530676414362	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530676414458	geckodriver::marionette	INFO	Connecting to Marionette on localhost:6981
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530676417549	Marionette	INFO	Listening on port 6981
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1530678055349	geckodriver	INFO	Listening on 127.0.0.1:7757
+1530678058373	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.XEzcRekSR3cs
+1530678058419	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530678058456	geckodriver::marionette	INFO	Connecting to Marionette on localhost:7765
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530678060003	Marionette	INFO	Listening on port 7765
+1530678146104	geckodriver	INFO	Listening on 127.0.0.1:7800
+1530678149148	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.4HcFoozdpRTE
+1530678149181	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530678149210	geckodriver::marionette	INFO	Connecting to Marionette on localhost:7808
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530678150598	Marionette	INFO	Listening on port 7808
+1530678179026	geckodriver	INFO	Listening on 127.0.0.1:7837
+1530678182059	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.K08d66cTpqe7
+1530678182082	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530678182110	geckodriver::marionette	INFO	Connecting to Marionette on localhost:7847
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530678183396	Marionette	INFO	Listening on port 7847
+1530678280543	geckodriver	INFO	Listening on 127.0.0.1:7895
+1530678283580	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.rqtfPRKT9cd0
+1530678283607	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530678283626	geckodriver::marionette	INFO	Connecting to Marionette on localhost:7903
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530678285070	Marionette	INFO	Listening on port 7903
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1530678322200	geckodriver	INFO	Listening on 127.0.0.1:7938
+1530678325226	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.KJRcSDdcgAXa
+1530678325254	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530678325279	geckodriver::marionette	INFO	Connecting to Marionette on localhost:7946
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530678326617	Marionette	INFO	Listening on port 7946
+1530678340907	geckodriver	INFO	Listening on 127.0.0.1:7975
+1530678343938	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.GGPF7jMhYTwu
+1530678343964	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530678343981	geckodriver::marionette	INFO	Connecting to Marionette on localhost:7983
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530678345278	Marionette	INFO	Listening on port 7983
+1530684983481	geckodriver	INFO	Listening on 127.0.0.1:10456
+1530684986490	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.sdmcDX1Zk0q5
+1530684986502	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530684986611	geckodriver::marionette	INFO	Connecting to Marionette on localhost:10466
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530684987837	Marionette	INFO	Listening on port 10466
+1530685011891	geckodriver	INFO	Listening on 127.0.0.1:10503
+1530685014908	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.pulwzF32txl3
+1530685014924	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530685014936	geckodriver::marionette	INFO	Connecting to Marionette on localhost:10512
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530685016762	Marionette	INFO	Listening on port 10512
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1530685033950	geckodriver	INFO	Listening on 127.0.0.1:10543
+1530685036968	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.q8amsfSDZqCg
+1530685036995	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530685037014	geckodriver::marionette	INFO	Connecting to Marionette on localhost:10552
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530685039169	Marionette	INFO	Listening on port 10552
+1530685810611	geckodriver	INFO	Listening on 127.0.0.1:10969
+1530685813627	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.Sjdrhp4zQYAu
+1530685813640	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530685813655	geckodriver::marionette	INFO	Connecting to Marionette on localhost:10978
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530685815461	Marionette	INFO	Listening on port 10978
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1530686125280	geckodriver	INFO	Listening on 127.0.0.1:11121
+1530686128288	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.mijhjEatVx9S
+1530686128297	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530686128309	geckodriver::marionette	INFO	Connecting to Marionette on localhost:11129
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530686130421	Marionette	INFO	Listening on port 11129
+1530686177197	geckodriver	INFO	Listening on 127.0.0.1:11171
+1530686180223	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.L8jmvIuAud1W
+1530686180256	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530686180269	geckodriver::marionette	INFO	Connecting to Marionette on localhost:11179
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530686182168	Marionette	INFO	Listening on port 11179
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1530686628002	geckodriver	INFO	Listening on 127.0.0.1:11423
+1530686631010	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.b1eORBkFoEcb
+1530686631023	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530686631041	geckodriver::marionette	INFO	Connecting to Marionette on localhost:11431
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530686633062	Marionette	INFO	Listening on port 11431
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1530686798481	geckodriver	INFO	Listening on 127.0.0.1:11486
+1530686801407	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.MwlKt7SQxz1Q
+1530686801470	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530686801494	geckodriver::marionette	INFO	Connecting to Marionette on localhost:11494
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530686812875	Marionette	INFO	Listening on port 11494
+1530686829620	geckodriver	INFO	Listening on 127.0.0.1:11538
+1530686832644	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.ZMEZ5aDbiSq1
+1530686832661	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530686832683	geckodriver::marionette	INFO	Connecting to Marionette on localhost:11547
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530686835706	Marionette	INFO	Listening on port 11547
+1530686923028	geckodriver	INFO	Listening on 127.0.0.1:11592
+1530686926037	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.AkEtbUHTuwaz
+1530686926047	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530686926061	geckodriver::marionette	INFO	Connecting to Marionette on localhost:11600
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530686928133	Marionette	INFO	Listening on port 11600
+1530687121537	geckodriver	INFO	Listening on 127.0.0.1:11688
+1530687124559	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.w6gJdkwgy9VJ
+1530687124595	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530687124607	geckodriver::marionette	INFO	Connecting to Marionette on localhost:11697
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530687125999	Marionette	INFO	Listening on port 11697
+1530687467285	geckodriver	INFO	Listening on 127.0.0.1:11810
+1530687470307	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.9JOJu3oPHVsy
+1530687470316	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530687470336	geckodriver::marionette	INFO	Connecting to Marionette on localhost:11818
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530687471839	Marionette	INFO	Listening on port 11818
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1530687558817	geckodriver	INFO	Listening on 127.0.0.1:11865
+1530687561854	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.tJZtkqzrNLVK
+1530687561884	geckodriver::marionette	INFO	Starting browser D:\browser\firefox\firefox.exe
+1530687561915	geckodriver::marionette	INFO	Connecting to Marionette on localhost:11874
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1530687563275	Marionette	INFO	Listening on port 11874

@@ -1,0 +1,12 @@
+*** Settings ***
+Library           Selenium2Library
+
+*** Test Cases ***
+testcase
+    [Documentation]    测试百度
+    open browser    https:www.baidu.com/    chrome
+    input Text    id=kw    python
+    sleep    1
+    click button    id=su
+    sleep    2
+    close browser
